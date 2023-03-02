@@ -12,10 +12,6 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="profile">
-                    <img src="https://cdn.discordapp.com/attachments/936597616534372352/961920434272600094/Cool-Yuji-Itadori-Wallpaper.jpg" alt="profile"/>
-                </div>
-                <div class="name glitch" data-text="DeletedUser">DeletedUser</div>
                 <div class="description">
                     <span>I'm Thailand Developer</span>
                     <span class="mt-1">Interesting in Coding and Networking</span>
