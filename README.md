@@ -15,7 +15,7 @@
                 <div class="description">
                     <span>I'm Thailand Developer</span>
                     <span class="mt-1">Interesting in Coding and Networking</span>
-                    <span class="mt-5">Contact : realdele@real-deleteduser.com </span>
+                    <span class="mt-5">Facebook : Jinny Rx </span>
                 </div>
                 <div class="hobby">
                     <div>💻 Coding</div>
